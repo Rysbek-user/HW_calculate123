@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator_hw_07</string>
+    <string name="ac">AC</string>
+    <string name="plus_minus_icon">+/-</string>
+    <string name="procent">%</string>
+    <string name="division">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="x">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="minus">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="point">.</string>
+    <string name="_0">0</string>
+    <string name="click_this">Нажми</string>
+    <string name="next">Next</string>
+    <string name="explore_the_nightlife_of_your_city">Explore the nightlife of your city</string>
+    <string name="category">Category</string>
+    <string name="accessebility">Accessebility</string>
+    <string name="participants">Participants</string>
+    <string name="free">free</string>
+    <string name="price">price💰</string>
+    <string name="Price">Price</string>
+    <string-array name="choice_color">
+        <item>Black</item>
+        <item>White</item>
+        <item>Gray</item>
+    </string-array>
+    <array name="initial_slider_values">
+        <item>10.0</item>
+        <item>50.0</item>
+    </array>
+</resources>
