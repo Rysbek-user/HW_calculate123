@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="range_seek_bar" type="id" />
+    <item name="range_seek_bar2" type="id" />
+    <item name="bottom_next" type="id" />
+    <item name="button_category" type="id" />
+    <item name="text_ex" type="id" />
+    <item name="gradient" type="id" />
+    <item name="text_free" type="id" />
+    <item name="heart_button" type="id" />
+    <item name="button_white" type="id" />
+</resources>

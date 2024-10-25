@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bg_button" />
+    <drawable name="bg_card" />
+    <drawable name="bg_button2" />
+</resources>
